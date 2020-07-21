@@ -1,0 +1,206 @@
+Input:  eehhee101027544
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input:  eehhee1144108930
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input:  eehhee1457850878
+Answer: Your financial award is currently being processed
+Input:  eehhee1458777923
+Answer: Your have 1 listed bank account(s).
+Input:  eehhee1622650073
+Answer: Nice talking to you. Goodbye! Have a good day
+Input:  eehhee16807
+Answer: Contact the finance office to make a payment
+Input:  eehhee2007237709
+Answer: Your next payment is due at the start of the fall term in September
+Input:  eehhee282475249
+Answer: Hi, how can I help you today
+Input:  eehhee470211272
+Answer: You can run reports in GoSFU
+Input:  eehhee823564440
+Answer: Your refund will be paid out in 7 business days.
+Input:  eehhee984943658
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: bhdhdh1102246882
+Answer: Your next payment is due at the start of the fall term in September
+Input: bhdhdh1269406752
+Answer: Your refund will be paid out in 7 business days.
+Input: bhdhdh1351934195
+Answer: Hi, how can I help you today
+Input: bhdhdh1557810404
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: bhdhdh1581030105
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: bhdhdh1864546517
+Answer: Contact the finance office to make a payment
+Input: bhdhdh1908194298
+Answer: You can run reports in GoSFU
+Input: bhdhdh2146319451
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: bhdhdh500782188
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: bhdhdh657821123
+Answer: Your financial award is currently being processed
+Input: bhdhdh753799505
+Answer: Your have 1 listed bank account(s).
+Input: ehehe
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: ehehh
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: ehehhe1137522503
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: ehehhe114807987
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: ehehhe1264817709
+Answer: Your refund will be paid out in 7 business days.
+Input: ehehhe143542612
+Answer: Your financial award is currently being processed
+Input: ehehhe1441282327
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: ehehhe1474833169
+Answer: Your next payment is due at the start of the fall term in September
+Input: ehehhe16531729
+Answer: You can run reports in GoSFU
+Input: ehehhe1784484492
+Answer: Contact the finance office to make a payment
+Input: ehehhe74243042
+Answer: Hi, how can I help you today
+Input: ehehhe823378840
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: ehehhe896544303
+Answer: Your have 1 listed bank account(s).
+Input: hehehe1060806853
+Answer: You can run reports in GoSFU
+Input: hehehe1075260298
+Answer: Your refund will be paid out in 7 business days.
+Input: hehehe1083454666
+Answer: Hi, how can I help you today
+Input: hehehe1108728549
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: hehehe158374933
+Answer: Your next payment is due at the start of the fall term in September
+Input: hehehe1942727722
+Answer: Contact the finance office to make a payment
+Input: hehehe194847408
+Answer: Your financial award is currently being processed
+Input: hehehe2035308228
+Answer: Your have 1 listed bank account(s).
+Input: hehehe2118797801
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: hehehe571540977
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: hehehe685118024
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: heheheh1025921153
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: heheheh1044788124
+Answer: Your have 1 listed bank account(s).
+Input: heheheh1646035001
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: heheheh1927702196
+Answer: Your next payment is due at the start of the fall term in September
+Input: heheheh1952509530
+Answer: Your refund will be paid out in 7 business days.
+Input: heheheh357571490
+Answer: Your financial award is currently being processed
+Input: heheheh510616708
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: heheheh585640194
+Answer: Contact the finance office to make a payment
+Input: heheheh590357944
+Answer: You can run reports in GoSFU
+Input: heheheh771515668
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: heheheh937186357
+Answer: Hi, how can I help you today
+Input: hehhe 
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: hehhehe107554536
+Answer: You can run reports in GoSFU
+Input: hehhehe1137623865
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: hehhehe1635339425
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: hehhehe1654001669
+Answer: Your financial award is currently being processed
+Input: hehhehe1777724115
+Answer: Your have 1 listed bank account(s).
+Input: hehhehe1962408013
+Answer: Hi, how can I help you today
+Input: hehhehe2020739063
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: hehhehe269220094
+Answer: Your next payment is due at the start of the fall term in September
+Input: hehhehe34075629
+Answer: Your refund will be paid out in 7 business days.
+Input: hehhehe595028635
+Answer: Contact the finance office to make a payment
+Input: hehhehe997389814
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: hhdhhd1356425228
+Answer: Your refund will be paid out in 7 business days.
+Input: hhdhhd1358580979
+Answer: Contact the finance office to make a payment
+Input: hhdhhd1399125485
+Answer: Your have 1 listed bank account(s).
+Input: hhdhhd1551901393
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: hhdhhd156091745
+Answer: Your next payment is due at the start of the fall term in September
+Input: hhdhhd1617819336
+Answer: Your financial award is currently being processed
+Input: hhdhhd1624379149
+Answer: Hi, how can I help you today
+Input: hhdhhd2110010672
+Answer: You can run reports in GoSFU
+Input: hhdhhd2128236579
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: hhdhhd530511967
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: hhdhhd784558821
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: love this1004844897
+Answer: You can run reports in GoSFU
+Input: love this1153851501
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: love this1227619358
+Answer: Your next payment is due at the start of the fall term in September
+Input: love this1723153177
+Answer: Your refund will be paid out in 7 business days.
+Input: love this1807130337
+Answer: Hi, how can I help you today
+Input: love this330111137
+Answer: Your have 1 listed bank account(s).
+Input: love this382955828
+Answer: Your financial award is currently being processed
+Input: love this578354438
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: love this616783871
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: love this884936716
+Answer: Contact the finance office to make a payment
+Input: love this892053144
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: psjndndn101929267
+Answer: Your next payment is due at the start of the fall term in September
+Input: psjndndn1131570933
+Answer: Hi, how can I help you today
+Input: psjndndn1404280278
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
+Input: psjndndn1505795335
+Answer: You can run reports in GoSFU
+Input: psjndndn1580723810
+Answer: Your refund will be paid out in 7 business days.
+Input: psjndndn1636807826
+Answer: Your financial award is currently being processed
+Input: psjndndn1817129560
+Answer: Contact the finance office to make a payment
+Input: psjndndn1954899097
+Answer: Your direct deposit summary is as follows: Bank Name - RBC, Account Number - 8636262
+Input: psjndndn197493099
+Answer: Nice talking to you. Goodbye! Have a good day
+Input: psjndndn563613512
+Answer: Your have 1 listed bank account(s).
+Input: psjndndn893351816
+Answer: Unfortunately, we do not accept credit card payments for regular tuition or fees.
+Input: whehh
+Answer: Unfortunately, I cannot help you. Please contact the finance office on 111-222-3333
