@@ -1,4 +1,5 @@
-#A Simple Chatbot
+# A Simple Chatbot 
+
 This chatbot has the following functionality:
 1. An in-memory data store from which responses are retrieved.
 2. A matching algorthim that takes the input, breaks it into separate words and returns responses with the highest match count.
